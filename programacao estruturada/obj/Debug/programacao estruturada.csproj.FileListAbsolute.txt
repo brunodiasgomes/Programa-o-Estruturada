@@ -1,0 +1,7 @@
+c:\users\31827615\source\repos\programacao estruturada\programacao estruturada\bin\Debug\programacao estruturada.exe.config
+c:\users\31827615\source\repos\programacao estruturada\programacao estruturada\bin\Debug\programacao estruturada.exe
+c:\users\31827615\source\repos\programacao estruturada\programacao estruturada\bin\Debug\programacao estruturada.pdb
+c:\users\31827615\source\repos\programacao estruturada\programacao estruturada\obj\Debug\programacao estruturada.csprojAssemblyReference.cache
+c:\users\31827615\source\repos\programacao estruturada\programacao estruturada\obj\Debug\programacao estruturada.csproj.CoreCompileInputs.cache
+c:\users\31827615\source\repos\programacao estruturada\programacao estruturada\obj\Debug\programacao estruturada.exe
+c:\users\31827615\source\repos\programacao estruturada\programacao estruturada\obj\Debug\programacao estruturada.pdb
